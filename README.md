@@ -20,6 +20,11 @@ I am presently working on a Battleship AI project, where I'm using Python and Py
 ### [SeaBattle AI](https://github.com/Nech-C/sea_battle_ai)
 In this project, I developed an AI for a variant of the game Battleship using Python and PyTorch.
 
+## 🌐 Online Profiles
+
+- FreeCodeCamp: [My FreeCodeCamp Profile](https://www.freecodecamp.org/Nech)
+
+
 ## 💻 Programming Languages
 
 I'm proficient in:
