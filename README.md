@@ -36,6 +36,11 @@ Currently, I'm expanding my skill set by learning:
 - JavaScript
 - Rust
 
+## 🎖️ Certifications
+
+- **FreeCodeCamp**: Successfully completed the JavaScript Algorithms and Data Structures Developer Certification, representing approximately 300 hours of coursework. This certification covered topics such as advanced JavaScript concepts, data structures, and various algorithms. Verify this certification [here](https://freecodecamp.org/certification/Nech/javascript-algorithms-and-data-structures).
+
+
 ## 📫 How to reach me
 
 - Email: Xiaokun_Chen@student.uml.edu
