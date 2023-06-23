@@ -15,15 +15,14 @@ I have a keen interest in Machine Learning, especially Reinforcement Learning. I
 
 I am presently working on a Battleship AI project, where I'm using Python and PyTorch. This project excites me as it allows me to apply my theoretical knowledge in a practical, fun context.
 
+## 🎖️ Certifications
+
+- **FreeCodeCamp**: Successfully completed the JavaScript Algorithms and Data Structures Developer Certification, representing approximately 300 hours of coursework. This certification covered topics such as advanced JavaScript concepts, data structures, and various algorithms. Verify this certification [here](https://freecodecamp.org/certification/Nech/javascript-algorithms-and-data-structures).
+
 ## 🚀 Projects
 
 ### [SeaBattle AI](https://github.com/Nech-C/sea_battle_ai)
 In this project, I developed an AI for a variant of the game Battleship using Python and PyTorch.
-
-## 🌐 Online Profiles
-
-- FreeCodeCamp: [My FreeCodeCamp Profile](https://www.freecodecamp.org/Nech)
-
 
 ## 💻 Programming Languages
 
@@ -36,10 +35,9 @@ Currently, I'm expanding my skill set by learning:
 - JavaScript
 - Rust
 
-## 🎖️ Certifications
+## 🌐 Online Profiles
 
-- **FreeCodeCamp**: Successfully completed the JavaScript Algorithms and Data Structures Developer Certification, representing approximately 300 hours of coursework. This certification covered topics such as advanced JavaScript concepts, data structures, and various algorithms. Verify this certification [here](https://freecodecamp.org/certification/Nech/javascript-algorithms-and-data-structures).
-
+- FreeCodeCamp: [My FreeCodeCamp Profile](https://www.freecodecamp.org/Nech)
 
 ## 📫 How to reach me
 
@@ -49,6 +47,7 @@ Currently, I'm expanding my skill set by learning:
 ## 📚 Currently Reading
 
 - An Introduction to Statistical Learning
+
 
 <!--
 **Nech-C/Nech-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
