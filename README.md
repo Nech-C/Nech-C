@@ -34,6 +34,7 @@ I'm proficient in:
 Currently, I'm expanding my skill set by learning:
 - JavaScript
 - Rust
+- HTML/CSS
 
 ## 🌐 Online Profiles
 
