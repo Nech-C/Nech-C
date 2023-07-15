@@ -47,7 +47,7 @@ Currently, I'm expanding my skill set by learning:
 
 ## 📚 Currently Reading
 
-- An Introduction to Statistical Learning
+- Neural Networks from Scratch in Python
 
 
 <!--
