@@ -1,64 +1,56 @@
 # Hello! 👋
 
-I'm Xiaokun Chen, a Computer Science graduate from the University of South Carolina, now pursuing my Master's degree at the University of Massachusetts Lowell. I'm currently located in MA, USA.
+I'm Xiaokun Chen, a Computer Science graduate from the University of South Carolina, pursuing my Master's degree at the University of Massachusetts Lowell. I'm based in Massachusetts, USA.
 
 ## 🎓 Education
-
 - Master's in Computer Science, University of Massachusetts Lowell *(In Progress)*
 - Bachelor's in Computer Science, University of South Carolina
 
 ## 🔬 Interests
-
-I have a keen interest in Machine Learning, especially Reinforcement Learning. I am continuously fascinated by the potential of AI and am enthusiastically enhancing my knowledge and skills in this domain.
+My primary research interests lie in Machine Learning, focusing on Large Language Models (LLMs) and the fundamental theories and algorithms of machine learning and deep learning. I am fascinated by the advancements in Artificial Intelligence and am dedicated to enhancing my knowledge and skills in this domain.
 
 ## 💼 Current Work
-
-I am presently working on a Battleship AI project, where I'm using Python and PyTorch. This project excites me as it allows me to apply my theoretical knowledge in a practical, fun context.
+I actively contribute to open-source projects, including Hugging Face's Accelerate and Transformers libraries. These contributions allow me to apply theoretical knowledge and coding skills to practical scenarios and engage with the broader AI community😊.
 
 ## 🎖️ Certifications
-
-- **FreeCodeCamp**: Successfully completed the JavaScript Algorithms and Data Structures Developer Certification, representing approximately 300 hours of coursework. This certification covered topics such as advanced JavaScript concepts, data structures, and various algorithms. Verify this certification [here](https://freecodecamp.org/certification/Nech/javascript-algorithms-and-data-structures).
+- **FreeCodeCamp**: Completed the JavaScript Algorithms and Data Structures Developer Certification, representing approximately 300 hours of coursework. This certification encompasses advanced JavaScript concepts, data structures, and various algorithms. [Verification Link](https://freecodecamp.org/certification/Nech/javascript-algorithms-and-data-structures)
 
 ## 🚀 Projects
-
 ### [SeaBattle AI](https://github.com/Nech-C/sea_battle_ai)
-In this project, I developed an AI for a variant of the game Battleship using Python and PyTorch.
+Developed an AI for a variant of the game Battleship using Python and PyTorch, demonstrating practical application of machine learning concepts.
 
 ## 💻 Programming Languages
-
-I'm proficient in:
+Proficient in:
 - Java
 - Python
 - C/C++
 
-Currently, I'm expanding my skill set by learning:
+Currently expanding expertise in:
 - JavaScript
 - Rust
 - HTML/CSS
 
 ## 🌐 Online Profiles
+- FreeCodeCamp: [Profile](https://www.freecodecamp.org/Nech)
+- LinkedIn: [Profile](https://www.linkedin.com/in/xiaokun-chen-bb363a1a1/)
 
-- FreeCodeCamp: [My FreeCodeCamp Profile](https://www.freecodecamp.org/Nech)
-
-## 📫 How to reach me
-
+## 📫 Contact Information
 - Email: Xiaokun_Chen@student.uml.edu
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/xiaokun-chen-bb363a1a1/)
 
 ## 📚 Currently Reading
+- Basic Analysis I
 
-- Neural Networks from Scratch in Python
-
+I welcome discussions on AI advancements, potential collaborations, or general inquiries in the field of computer science and machine learning.
 
 <!--
-**Nech-C/Nech-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nech-C/Nech-C** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
