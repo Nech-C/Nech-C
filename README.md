@@ -21,14 +21,12 @@ Developed an AI for a variant of the game Battleship using Python and PyTorch, d
 
 ## 💻 Programming Languages
 Proficient in:
-- Java
 - Python
-- C/C++
 
 Currently expanding expertise in:
 - JavaScript
-- Rust
 - HTML/CSS
+- SQL
 
 ## 🌐 Online Profiles
 - FreeCodeCamp: [Profile](https://www.freecodecamp.org/Nech)
