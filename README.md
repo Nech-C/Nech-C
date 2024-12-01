@@ -25,6 +25,7 @@ Proficient in:
 
 Currently expanding expertise in:
 - JavaScript
+- TypeScript
 - HTML/CSS
 - SQL
 
@@ -36,9 +37,9 @@ Currently expanding expertise in:
 - Email: Xiaokun_Chen@student.uml.edu
 
 ## 📚 Currently Reading
-- Basic Analysis I
+- Calculus by Spivak
 
-I welcome discussions on AI advancements, potential collaborations, or general inquiries in the field of computer science and machine learning.
+I welcome discussions on AI advancements, potential collaborations, or general inquiries about computer science and machine learning.
 
 <!--
 **Nech-C/Nech-C** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
