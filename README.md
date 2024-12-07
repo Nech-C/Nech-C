@@ -31,7 +31,7 @@ Currently expanding expertise in:
 
 ## 🌐 Online Profiles
 - FreeCodeCamp: [Profile](https://www.freecodecamp.org/Nech)
-- LinkedIn: [Profile](https://www.linkedin.com/in/xiaokun-chen-bb363a1a1/)
+- LinkedIn: [Profile](https://www.linkedin.com/in/xiaokunchen/)
 
 ## 📫 Contact Information
 - Email: Xiaokun_Chen@student.uml.edu
