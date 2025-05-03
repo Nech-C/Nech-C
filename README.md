@@ -3,7 +3,7 @@
 I'm Xiaokun Chen, a Computer Science graduate from the University of South Carolina, pursuing my Master's degree at the University of Massachusetts Lowell. I'm based in Massachusetts, USA.
 
 ## 🎓 Education
-- Master's in Computer Science, University of Massachusetts Lowell *(In Progress)*
+- Master's in Computer Science, University of Massachusetts Lowell
 - Bachelor's in Computer Science, University of South Carolina
 
 ## 🔬 Interests
@@ -37,7 +37,7 @@ Currently expanding expertise in:
 - Email: Xiaokun_Chen@student.uml.edu
 
 ## 📚 Currently Reading
-- Calculus by Spivak
+- DDIA
 
 I welcome discussions on AI advancements, potential collaborations, or general inquiries about computer science and machine learning.
 
