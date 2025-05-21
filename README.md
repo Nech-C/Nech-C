@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Xiaokun Chen, a Computer Science graduate from the University of South Carolina, pursuing my Master's degree at the University of Massachusetts Lowell. I'm based in Massachusetts, USA.
+I'm Xiaokun Chen, a recent computer science graduate. I'm based in Massachusetts, USA, and I'm looking for machine learning engineer roles and anything ML/AI-related.
 
 ## 🎓 Education
 - Master's in Computer Science, University of Massachusetts Lowell
@@ -10,7 +10,7 @@ I'm Xiaokun Chen, a Computer Science graduate from the University of South Carol
 My primary research interests lie in Machine Learning, focusing on Large Language Models (LLMs) and the fundamental theories and algorithms of machine learning and deep learning. I am fascinated by the advancements in Artificial Intelligence and am dedicated to enhancing my knowledge and skills in this domain.
 
 ## 💼 Current Work
-I actively contribute to open-source projects, including Hugging Face's Accelerate and Transformers libraries. These contributions allow me to apply theoretical knowledge and coding skills to practical scenarios and engage with the broader AI community😊.
+I actively contribute to open-source projects, including Hugging Face's Accelerate and Transformers libraries. I am also building AI applications hosted on HuggingFace Spaces.
 
 ## 🎖️ Certifications
 - **FreeCodeCamp**: Completed the JavaScript Algorithms and Data Structures Developer Certification, representing approximately 300 hours of coursework. This certification encompasses advanced JavaScript concepts, data structures, and various algorithms. [Verification Link](https://freecodecamp.org/certification/Nech/javascript-algorithms-and-data-structures)
@@ -18,6 +18,9 @@ I actively contribute to open-source projects, including Hugging Face's Accelera
 ## 🚀 Projects
 ### [SeaBattle AI](https://github.com/Nech-C/sea_battle_ai)
 Developed an AI for a variant of the game Battleship using Python and PyTorch, demonstrating practical application of machine learning concepts.
+### [Rock-Identifier](https://huggingface.co/spaces/Nech-C/Rock-Identifier)
+
+
 
 ## 💻 Programming Languages
 Proficient in:
@@ -32,9 +35,10 @@ Currently expanding expertise in:
 ## 🌐 Online Profiles
 - FreeCodeCamp: [Profile](https://www.freecodecamp.org/Nech)
 - LinkedIn: [Profile](https://www.linkedin.com/in/xiaokunchen/)
-
+- Huggingface: [Profile](https://huggingface.co/Nech-C)
+- 
 ## 📫 Contact Information
-- Email: Xiaokun_Chen@student.uml.edu
+- Email: xiaokunchen@outlook.com
 
 ## 📚 Currently Reading
 - DDIA
