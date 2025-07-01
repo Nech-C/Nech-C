@@ -32,25 +32,53 @@ const projects = [
 
 function App() {
   return (
-    <main className="min-h-screen bg-gray-50 py-12 px-6 md:px-12">
-      <section className="max-w-3xl mx-auto mb-12 text-center">
-        <h1 className="text-3xl font-bold mb-4">Hi, I'm Xiaokun Chen 👋</h1>
-        <p className="text-gray-700 text-lg">
-          I'm a Computer Science MS student at UMass Lowell, specializing in machine learning and full-stack development.
-          I've contributed to open-source libraries like <a href="https://github.com/huggingface/transformers" className="text-blue-600 hover:underline">Transformers</a>,
-          and built real-world apps using cloud infrastructure and Hugging Face tools. I'm passionate about building useful, intelligent systems.
-        </p>
-      </section>
+    <div className="bg-gray-50">
+      <main className="min-h-screen">
+        <section className="bg-gray-100 py-12">
+          <div className="max-w-5xl mx-auto text-center px-6">
+            <h1 className="text-3xl font-bold mb-4">Hi, I'm Xiaokun Chen 👋</h1>
+            <p className="text-gray-700 text-lg">
+              I'm a Computer Science MS student at UMass Lowell, specializing in machine learning and full-stack development.
+              I've contributed to open-source libraries like <a href="https://github.com/huggingface/transformers" className="text-blue-600 hover:underline">Transformers</a>,
+              and built real-world apps using cloud infrastructure and Hugging Face tools. I'm passionate about building useful, intelligent systems.
+            </p>
+          </div>
+        </section>
 
-      <section>
-        <h2 className="text-2xl font-bold mb-6 text-center">My Projects</h2>
-        <div className="flex flex-wrap justify-center gap-6">
-          {projects.map((project, index) => (
-            <ProjectCard key={index} {...project} />
-          ))}
+        <hr className="mb-10 border-t border-gray-300" />
+        <section className="mb-10">
+          <h2 className="text-4xl font-bold mb-10 text-center">My Projects</h2>
+          <div className="flex flex-wrap justify-center gap-6">
+            {projects.map((project, index) => (
+              <ProjectCard key={index} {...project} />
+            ))}
+          </div>
+        </section>
+      </main>
+      <footer className="bg-gray-100 py-6 mt-12 text-center text-sm text-gray-600">
+        <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
+          <a
+            href="https://github.com/Nech-C"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-blue-600 underline"
+          >
+            GitHub
+          </a>
+          <span className="hidden sm:inline">|</span>
+          <a
+            href="https://www.linkedin.com/in/xiaokunchen/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-blue-600 underline"
+          >
+            LinkedIn
+          </a>
         </div>
-      </section>
-    </main>
+        <p className="mt-4">&copy; {new Date().getFullYear()} Xiaokun Chen</p>
+      </footer>
+
+    </div>
   );
 }
 
