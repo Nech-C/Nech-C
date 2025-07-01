@@ -12,12 +12,20 @@ export default function ProjectCard({ title, image, description, tech, links }) 
           <span key={idx} className="bg-gray-200 text-xs px-2 py-1 rounded-full">{item}</span>
         ))}
       </div>
-      <div className="mt-2 flex gap-4">
-        {links.demo && <a href={links.demo} className="text-blue-600 hover:underline" target="_blank">Demo</a>}
-        {links.repo && <a href={links.repo} className="text-blue-600 hover:underline" target="_blank">Repo</a>}
-        {links.frontend && <a href={links.frontend} className="text-blue-600 hover:underline" target="_blank">Frontend</a>}
-        {links.backend && <a href={links.backend} className="text-blue-600 hover:underline" target="_blank">Backend</a>}
+      <div className="mt-2 flex gap-4 flex-wrap">
+        {Object.entries(links).map(([label, url]) => (
+          <a
+            key={label}
+            href={url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:underline"
+          >
+            {label.charAt(0).toUpperCase() + label.slice(1)}
+          </a>
+        ))}
       </div>
+
     </div>
   );
 }
