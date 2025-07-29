@@ -32,11 +32,11 @@ const projects = [
 
 function App() {
   return (
-    <div className="bg-gray-50">
+    <div className="bg-gray-100">
       <main className="min-h-screen">
-        <section className="bg-gray-100 py-12">
+        <section className="bg-gray-200 py-12">
           <div className="max-w-5xl mx-auto text-center px-6">
-            <h1 className="text-3xl font-bold mb-4">Hi, I'm Xiaokun Chen 👋</h1>
+            <h1 className="text-3xl font-bold mb-4">Hi, I'm Xiaokun "Nech" Chen 👋</h1>
             <p className="text-gray-700 text-lg">
               I'm a Computer Science MS student at UMass Lowell, specializing in machine learning and full-stack development.
               I've contributed to open-source libraries like <a href="https://github.com/huggingface/transformers" className="text-blue-600 hover:underline">Transformers</a>,
@@ -55,7 +55,7 @@ function App() {
           </div>
         </section>
       </main>
-      <footer className="bg-gray-100 py-6 mt-12 text-center text-sm text-gray-600">
+      <footer className="bg-gray-200 py-6 mt-12 text-center text-sm text-gray-600">
         <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
           <a
             href="https://github.com/Nech-C"
@@ -75,7 +75,7 @@ function App() {
             LinkedIn
           </a>
         </div>
-        <p className="mt-4">&copy; {new Date().getFullYear()} Xiaokun Chen</p>
+        <p className="mt-4">&copy; {new Date().getFullYear()} Nech Chen</p>
       </footer>
 
     </div>
