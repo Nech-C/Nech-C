@@ -1,1 +1,19 @@
-@import "tailwindcss"
+@import "tailwindcss";
+
+@theme {
+    --animate-fade-in-up: fade-in-up 0.5s ease-out forwards;
+    @keyframes fade-in-up {
+      0% {
+        opacity: 0.3;
+        transform: translateY(30px);
+      }
+      70% {
+        opacity: 0.8;
+        transform: translateY(-5px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+}
