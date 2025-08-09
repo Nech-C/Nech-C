@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Xiaokun Chen, a recent computer science graduate. I'm based in Massachusetts, USA, and I'm looking for machine learning engineer roles and anything ML/AI-related.
+I'm Xiaokun "Nech" Chen, a recent computer science graduate. I'm based in Massachusetts, USA, and I'm seeking machine learning engineer roles and anything ML/AI-related.
 
 ## 🎓 Education
 - Master's in Computer Science, University of Massachusetts Lowell
@@ -26,11 +26,14 @@ Developed an AI for a variant of the game Battleship using Python and PyTorch, d
 Proficient in:
 - Python
 
+Familiar with:
+- Java
+- C++
+- SQL
+- HTML/CSS
+
 Currently expanding expertise in:
 - JavaScript
-- TypeScript
-- HTML/CSS
-- SQL
 
 ## 🌐 Online Profiles
 - FreeCodeCamp: [Profile](https://www.freecodecamp.org/Nech)
