@@ -1,5 +1,5 @@
 // file: src/components/ProjectCard.jsx
-import React from 'react';
+import React from 'react'
 
 export default function ProjectCard({ title, image, description, tech, links }) {
   return (
@@ -27,5 +27,5 @@ export default function ProjectCard({ title, image, description, tech, links }) 
       </div>
 
     </div>
-  );
+  )
 }

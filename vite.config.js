@@ -6,7 +6,7 @@ export default defineConfig({
   base: '/Nech-C/',
   plugins: [
     react(),
-    tailwindcss()
+    tailwindcss(),
   ],
 
 })
