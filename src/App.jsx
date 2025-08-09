@@ -1,13 +1,13 @@
-import ProjectCard from './components/ProjectCard';
-
+import ProjectCard from './components/ProjectCard'
+import React from 'react'
 const projects = [
   {
-    title: "Reddit Sentiment Meter",
-    image: "images/reddit-meter.png",
-    alt: "Screenshot of Reddit Sentiment Meter dashboard",
-    description: "An end-to-end sentiment analysis tool that monitors Reddit posts, performs transformer-based inference, and visualizes public opinion trends in real time.",
-    tech: ['FastAPI', 'Firestore', 'Cloud Run', 'React', 'Vite'],
-    date: "2024-2025",
+    title: 'Reddit Sentiment Meter',
+    image: 'images/reddit-meter.png',
+    alt: 'Screenshot of Reddit Sentiment Meter dashboard',
+    description: 'An end-to-end sentiment analysis tool that monitors Reddit posts, performs transformer-based inference, and visualizes public opinion trends in real time.',
+    tech: ['FastAPI', 'Firestore', 'Cloud Run', 'React', 'Vite', 'Cloud Run'],
+    date: '2024-2025',
     tags: ['Live', 'Open Source'],
     links: {
       demo: 'https://reddit-sentiment-meter.firebaseapp.com/',
@@ -16,19 +16,31 @@ const projects = [
     },
   },
   {
-    title: "Rockognize - Mineral Identifier",
-    image: "images/rockognize.png",
-    alt: "Screenshot of Rockognize mineral classification app",
-    description: "A computer vision classifier for minerals using a fine-tuned vision transformer, deployed on Hugging Face Spaces with an intuitive drag-and-drop UI.",
+    title: 'Rockognize - Mineral Identifier',
+    image: 'images/rockognize.png',
+    alt: 'Screenshot of Rockognize mineral classification app',
+    description: 'A computer vision classifier for minerals using a fine-tuned vision transformer, deployed on Hugging Face Spaces with an intuitive drag-and-drop UI.',
     tech: ['Gradio', 'Hugging Face', 'Transformers'],
-    date: "2024",
+    date: '2024',
     tags: ['Live'],
     links: {
       demo: 'https://huggingface.co/spaces/Nech-C/Rock-Identifier',
       repo: 'https://github.com/Nech-C/rockognize',
     },
   },
-];
+  {
+    title: 'Smart CLI Todo',
+    image: 'images/llm-todo.png',
+    alt: 'Screenshot of the Smart CLI Todo tool',
+    description: 'A local command line todo tool powered by an LLM agent with LangChain. You can use the tool using pre-defined commands or natural language.',
+    tech: ['LangChain', 'LangeGraph', 'Ollama', 'ChromaDB'],
+    date: '2025',
+    tags: ['Local', 'Open Source'],
+    links: {
+      repo: 'https://github.com/Nech-C/smart-cli-todo',
+    },
+  },
+]
 
 function App() {
   return (
@@ -39,7 +51,10 @@ function App() {
             <h1 className="text-3xl font-bold mb-4">Hi, I'm Xiaokun "Nech" Chen 👋</h1>
             <p className="text-gray-700 text-lg">
               I'm a Computer Science MS student at UMass Lowell, specializing in machine learning and full-stack development.
-              I've contributed to open-source libraries like <a href="https://github.com/huggingface/transformers" className="text-blue-600 hover:underline">Transformers</a>,
+              I've contributed to open-source libraries like
+              {' '}
+              <a href="https://github.com/huggingface/transformers" className="text-blue-600 hover:underline">Transformers</a>
+              ,
               and built real-world apps using cloud infrastructure and Hugging Face tools. I'm passionate about building useful, intelligent systems.
             </p>
           </div>
@@ -75,12 +90,16 @@ function App() {
             LinkedIn
           </a>
         </div>
-        <p className="mt-4">&copy; {new Date().getFullYear()} Nech Chen</p>
+        <p className="mt-4">
+          &copy;
+          {new Date().getFullYear()}
+          {' '}
+          Nech Chen
+        </p>
       </footer>
 
     </div>
-  );
+  )
 }
 
-
-export default App;
+export default App
